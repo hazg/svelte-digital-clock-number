@@ -32,5 +32,14 @@
   ],
   "dependencies": {
     "svelte": "^3.29.7"
-  }
+  },
+  "keywords": [
+    "svelte",
+    "vanillajs",
+    "number",
+    "clock",
+    "alarm",
+    "digit",
+    "render"
+  ]
 }
